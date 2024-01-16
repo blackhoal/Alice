@@ -1,0 +1,12 @@
+# 웹 프로그래밍
+- www(World Wide Web)
+- 웹?
+    - 브라우저와 서버와의 통신
+    - HTTP를 활용한 서버와 브라우저의 커뮤니케이션
+- HTTP(Hyper Text Transform Protocol)
+- HTTPS
+- SEO
+- css 적용순위
+    - in-line css > id > class > tag
+- css 단위
+    - px / % / rem(em) / vw(vh)

@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #ef1919dc;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+}
+
+header h1 {
+    color: white;
+    border: 8px solid white;
+    padding: 6px 12px;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+.banner {
+    position: relative;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.banner .welcome {
+    background: #f5ba17;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 31%;
+    left: 10%;
+    padding: 30px;
+}
+
+.banner h2 {
+    font-size: 74px;
+}
+
+.banner h2 span {
+    font-size: 1.3em;
+}
+
+nav {
+    background: #45424245;
+    padding: 20px;
+}
+
+nav ul {
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav li {
+    width: 25%;
+    display: inline-block;
+    font-size: 24px;
+}
+
+main {
+    max-width: 100%;
+    width: 1200px;
+    margin: 80px auto;
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+
+article h2{
+    color: #f63232;
+    font-size: 38px;
+}
+
+article p {
+    line-height: 2em;
+}
+
+.images {
+    text-align: center;
+    margin: 80px 0;
+}
+
+.images li {
+    display: inline-block;
+    width: 30%;
+    margin: 10px 5%;
+}
+
+.images li img {
+    max-width: 100%;
+}
+
+section.join {
+    background: #f4f4f4;
+    text-align: center;
+    padding: 60px 20px;
+    color: #4b4b4b;
+}
+
+section.join h2 {
+    font-size: 30px;
+}
+
+form input {
+    margin: 20px 0;
+    padding: 10px 20px;
+    font-size: 24px;
+    border-radius: 28px;
+    border: 4px solid white;
+}
+
+footer {
+    background-color: #ef1919dc;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+form input:focus {
+    border: 4px dashed #4b4b4b;
+    outline: none;
+}
+
+.images li:hover {
+    position: relative;
+    top: -14px;
+}
+
+nav li:first-child {
+    border: 3px solid red;
+}
+
+@media screen and (max-width:1024px) {
+    .banner h2 {
+        font-size: 56px;
+    }
+}
+
+@media screen and (max-width:930px) {
+    .banner .welcome {
+        display: none;
+    }
+    
+    .banner h2 {
+        font-size: 48px;
+    }
+}
