@@ -1,5 +1,5 @@
 # 1. 자바스크립트 제어 흐름
-![4-3](./img/4-3.png)  
+![4-3](https://github.com/blackhoal/Elice/blob/main/study/img/4-3.png?raw=true)  
 - 자바스크립트는 싱글 스레드 런타임을 언어이므로 한 번에 하나의 작업만 수행 가능
 - 이전 작업이 완료되어야 다음 작업을 수행 가능하므로 위에서 아래 방향으로 차례로 동작(동기 방식)
 - 동기 방식은 간단하고 직관적이지만 작업 시간이 길거나 응답이 늦을 경우 성능 저하 有
@@ -17,7 +17,7 @@
 ```
 
 ## 1-2. 동기 VS 비동기
-![4-1](./img/4-1.png)  
+![4-1](https://github.com/blackhoal/Elice/blob/main/study/img/4-1.png?raw=true)  
 - 동기식 : 현재 실행 중인 코드가 종료되기 전까지 다음 코드를 실행하지 않는 것
 - 비동기식 : 현재 실행 중인 코드가 존재해도 병렬적으로 다른 코드를 실행하는 것
 
@@ -29,7 +29,7 @@
 ## 2-1. 비동기 처리 방식
 ||callback|promise|async/await|
 |:----:|:----:|:----:|:----:|
-|에러 처리|콜백 함수 내에서 처리|catct()로 처리|try-catch 블록으로 처리|
+|에러 처리|콜백 함수 내에서 처리|catch()로 처리|try-catch 블록으로 처리|
 |가독성|짧으면 우수 / 길어질수록 복잡|good|good|
 |중첩 처리|콜백 함수 내에서 처리|then() 사용|await 키워드 사용|
 - 콜백(Callback) 함수
@@ -46,7 +46,7 @@
 <br>
 
 # 3. Promise
-![4-2](./img/4-2.png)  
+![4-2](https://github.com/blackhoal/Elice/blob/main/study/img/4-2.png?raw=true)  
 ```js
 /* Callback Hell */
 function increaseAndPrint(n, callback) {
@@ -149,7 +149,7 @@ promise().then((message) => {
     - Promise의 에러를 처리 시 더 많은 상황의 예외를 처리 가능한 catch 메소드의 사용을 권장
 
 ## 3-4. Promise 상태
-![4-4](./img/4-4.png)  
+![4-4](https://github.com/blackhoal/Elice/blob/main/study/img/4-4.png?raw=true)  
 ```js
 /* 
     1. pending(대기) : 처리가 완료되지 않은 상태
@@ -256,7 +256,7 @@ promise('success')
 <br>
 
 # 4. async / await
-![4-5](./img/4-5.png)  
+![4-5](https://github.com/blackhoal/Elice/blob/main/study/img/4-5.png?raw=true)  
 
 ## 4-1. 사용 이유
 - 기존의 비동기 처리를 위한 전통적인 패턴으로 콜백 함수 및 Promise를 사용
