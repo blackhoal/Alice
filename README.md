@@ -11,7 +11,6 @@
 - 접근성
 - SEO
 - 교재
-    - [아는 만큼 보이는 프런트엔드 개발](https://product.kyobobook.co.kr/detail/S000209150824)
 
 ## CSS
 - 레이아웃 구성
