@@ -11,7 +11,6 @@
 - 접근성
 - SEO
 - 교재
-    - [아는 만큼 보이는 프런트엔드 개발](https://product.kyobobook.co.kr/detail/S000209150824)
 
 ## CSS
 - 레이아웃 구성
@@ -98,8 +97,11 @@
 - [Poiema Web](https://poiemaweb.com/)
 - [TCP School](https://tcpschool.com/javascript/intro)
 - [W3schools](https://www.w3schools.com/)
+<<<<<<< HEAD
 
 <br>
 
 # Useful Site
 - [JS Runtime Simulator](https://www.jsv9000.app/)
+=======
+>>>>>>> 7766a28f7988b4991a54c0471dee035951cb6583
