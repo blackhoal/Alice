@@ -92,16 +92,12 @@
 - Module Bundlers
     - Webpack
 
-## Reference
-- [Inpa Dev 블로그](https://inpa.tistory.com/)
-- [Poiema Web](https://poiemaweb.com/)
-- [TCP School](https://tcpschool.com/javascript/intro)
-- [W3schools](https://www.w3schools.com/)
-<<<<<<< HEAD
-
 <br>
 
 # Useful Site
 - [JS Runtime Simulator](https://www.jsv9000.app/)
-=======
->>>>>>> 7766a28f7988b4991a54c0471dee035951cb6583
+- [Front-Interview](https://github.com/ssi02014/Front-Interview?tab=readme-ov-file)
+- [Inpa Dev 블로그](https://inpa.tistory.com/)
+- [Poiema Web](https://poiemaweb.com/)
+- [TCP School](https://tcpschool.com/javascript/intro)
+- [W3schools](https://www.w3schools.com/)
