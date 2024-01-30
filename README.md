@@ -39,10 +39,10 @@
     - Scope
     - this
     - Closure
-    - 비동기 처리(Callback, Promise, Async/await)
     - Map / Filter / Reduce
     - Prototype
     - Strict 모드
+- 비동기 처리(Callback, Promise, Async/await)
 - DOM 조작
     - Shadow DOM
 - Event Bubbling 
