@@ -204,7 +204,7 @@
 <br>
 
 # Reference
-[참조 1](https://ko.wikipedia.org/wiki/OSI_%EB%AA%A8%ED%98%95)  
-[참조 2](https://jhnyang.tistory.com/194)  
-[참조 3](https://neul-carpediem.tistory.com/188)  
-[참조 4](https://velog.io/@poiuyy0420/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-OSI-7-%EA%B3%84%EC%B8%B5-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)  
+- [참조 1](https://ko.wikipedia.org/wiki/OSI_%EB%AA%A8%ED%98%95)  
+- [참조 2](https://jhnyang.tistory.com/194)  
+- [참조 3](https://neul-carpediem.tistory.com/188)  
+- [참조 4](https://velog.io/@poiuyy0420/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-OSI-7-%EA%B3%84%EC%B8%B5-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)  
