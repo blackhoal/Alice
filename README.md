@@ -101,3 +101,5 @@
 - [Poiema Web](https://poiemaweb.com/)
 - [TCP School](https://tcpschool.com/javascript/intro)
 - [W3schools](https://www.w3schools.com/)
+- [mongoose docs](https://mongoosejs.com/docs/api/model.html)
+- [exec() 역할](https://tesseractjh.tistory.com/166)

@@ -71,8 +71,16 @@ app.get("/users", async(req, res) => {
 })
 
 app.put("/users/:email", async (req, res) => {
-
     // TODO: 특정 email에 대해서 age, name, username를 수정하는데 바디에 넘겨준 값으로 수정해보세요. (UPDATE)
+    const email = req.params.email;
+    const result = await User.updateOne(
+        {email: email},
+        {
+            name: req.body.name,
+            username: req.body.username,
+            age: req.body.age,
+        }
+    )
 })
 
 // http://localhost:3000/users/<email>
