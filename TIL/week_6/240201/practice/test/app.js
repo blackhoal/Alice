@@ -6,7 +6,7 @@ const Movie = require("./models/movies");
 
 const app = express();
 
-mongoose.connect('mongodb+srv://Jason:LtkJvhzmhTT6eEh8@cluster0.h6hywhr.mongodb.net/?retryWrites=true&w=majority')
+mongoose.connect('mongodb+srv://Jason:<password>@cluster0.h6hywhr.mongodb.net/?retryWrites=true&w=majority')
 .then(() => console.log('Connected!'));
 
 /*
