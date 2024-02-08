@@ -15,7 +15,6 @@ const User = mongoose.model('user', new mongoose.Schema({
     age: Number,
 }));
 
-
 app.post("/users", async (req, res) => {
     // TODO: 유저를 추가하세요 (CREATE)
 
