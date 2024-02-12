@@ -95,6 +95,9 @@
 # ETC
 - Swagger
 
+# 서적
+- [아는 만큼 보이는 프런트엔드 개발](https://product.kyobobook.co.kr/detail/S000209150824)
+
 <br>
 
 # Useful Site
