@@ -14,14 +14,17 @@
 
 ## CSS
 - 레이아웃 구성
+    - float
     - flex
     - grid
+- Transition
+- Animation
 - 반응형 디자인 & 미디어 쿼리
 - CSS 아키텍처
     - BEM
     - OOCSS
     - SMACSS
-- CSS 전처리기
+- CSS 전처리기(Preprocessor)
     - Sass
     - PostCSS
 - 교재
@@ -93,9 +96,10 @@
     - Webpack
 
 # ETC
+- 크로스 브라우징
 - Swagger
 
-# 서적
+# 교재
 - [아는 만큼 보이는 프런트엔드 개발](https://product.kyobobook.co.kr/detail/S000209150824)
 
 <br>
