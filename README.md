@@ -1,6 +1,9 @@
 # Roadmap
 ## CS
 - Network
+    - OSI 7 Layers
+    - HTTP Status Code
+    - Get VS POST
 - Database
 - OS
 - 형상관리
